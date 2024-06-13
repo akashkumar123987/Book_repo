@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Step 1:- copy the github repo url
 
 Step 2:- open cmd terminal 
@@ -21,3 +22,6 @@ Step9:- move to frontend
 Step10:- move backend
           npm install 
           npm start
+=======
+# Book_mern
+>>>>>>> 574b7dc906dc64773c9ead28a68035f51d5c10b2
