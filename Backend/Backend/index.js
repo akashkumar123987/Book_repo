@@ -26,7 +26,9 @@ try {
 } catch (error) {
     console.log("Error: ", error);
 }
-
+app.get("/",(req,res)=>{
+    res.status(200).json({message:"hello ak"})
+})
 // defining routes
 app.use("/book", bookRoute);
 app.use("/user", userRoute);
